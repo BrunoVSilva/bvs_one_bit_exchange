@@ -5,7 +5,7 @@
   "name": "bvs_one_bit_exchange",
   "private": true,
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "jquery": "^3.3.1",
     "tether": "^1.4.5"
   }
